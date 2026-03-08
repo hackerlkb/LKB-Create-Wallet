@@ -1,1 +1,4 @@
-# LKB-Create-Wallet
+
+```
+go run main.go
+```
