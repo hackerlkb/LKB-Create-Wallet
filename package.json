@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "axios": "^1.7.7",
+    "base58": "^2.0.1",
+    "bip39": "^3.1.0",
+    "bitcoinjs-lib": "^6.1.6",
+    "buffer": "^6.0.3",
+    "crypto": "^1.0.1",
+    "csv-writer": "^1.6.0",
+    "ethers": "^6.13.2",
+    "ton-crypto": "^3.2.0"
+  },
+  "name": "create_wallet",
+  "version": "1.0.0",
+  "main": "ETH.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
